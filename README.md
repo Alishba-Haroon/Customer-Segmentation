@@ -287,10 +287,12 @@ Through this project, the following Machine Learning concepts were practiced:
 
 **Alishba Haroon**
 
-AI / Machine Learning Enthusiast
 
 ---
 
 ## 📄 License
 
-This project is created for **educational  purposes**.
+This project is licensed under the **MIT License**.
+
+See the [`LICENSE`](LICENSE) file for the complete license text.
+
