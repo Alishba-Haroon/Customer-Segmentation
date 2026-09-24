@@ -1,0 +1,201 @@
+CustomerID,Gender,Age,Education ,Marital Status,Annual Income (k$),Spending Score (1-100),Cluster
+1,M,19,High School,Married,15,39,4
+2,M,21,Graduate,Single,15,81,2
+3,F,20,Graduate,Married,16,6,4
+4,F,23,High School,Unknown,16,77,2
+5,F,31,Uneducated,Married,17,40,4
+6,F,22,Graduate,Married,17,76,2
+7,F,35,Unknown,Married,18,6,4
+8,F,23,High School,Unknown,18,94,2
+9,M,64,Uneducated,Single,19,3,4
+10,F,30,Graduate,Single,19,72,2
+11,M,67,Uneducated,Unknown,19,14,4
+12,F,35,Unknown,Married,19,99,2
+13,F,58,College,Single,20,15,4
+14,F,24,Graduate,Unknown,20,77,2
+15,M,37,Graduate,Married,20,13,4
+16,M,22,Unknown,Unknown,20,79,2
+17,F,35,Post-Graduate,Single,21,35,4
+18,M,20,Unknown,Married,21,66,2
+19,M,52,High School,Married,23,29,4
+20,F,35,Graduate,Married,23,98,2
+21,M,35,Doctorate,Divorced,24,35,4
+22,M,25,Graduate,Married,24,73,2
+23,F,46,High School,Married,25,5,4
+24,M,31,Unknown,Single,25,73,2
+25,F,54,Unknown,Married,28,14,4
+26,M,29,Graduate,Single,28,82,2
+27,F,45,High School,Unknown,28,32,4
+28,M,35,Unknown,Married,28,61,2
+29,F,40,Uneducated,Single,29,31,4
+30,F,23,High School,Married,29,87,2
+31,M,60,Unknown,Married,30,4,4
+32,F,21,Uneducated,Married,30,73,2
+33,M,53,Graduate,Married,33,4,4
+34,M,18,College,Married,33,92,2
+35,F,49,Graduate,Married,33,14,4
+36,F,21,College,Single,33,81,2
+37,F,42,Graduate,Married,34,17,4
+38,F,30,High School,Married,34,73,2
+39,F,36,Graduate,Unknown,37,26,4
+40,F,20,Doctorate,Married,37,75,2
+41,F,65,Graduate,Single,38,35,4
+42,M,24,Unknown,Married,38,92,2
+43,M,48,College,Single,39,36,4
+44,F,31,High School,Married,39,61,0
+45,F,49,Graduate,Single,39,28,4
+46,F,24,Uneducated,Single,39,65,2
+47,F,50,Doctorate,Married,40,55,0
+48,F,27,Doctorate,Married,40,47,0
+49,F,29,High School,Married,40,42,0
+50,F,31,College,Single,40,42,0
+51,F,49,Unknown,Married,42,52,0
+52,M,33,Graduate,Married,42,60,0
+53,F,31,High School,Married,43,54,0
+54,M,59,Unknown,Married,43,60,0
+55,F,50,Graduate,Married,43,45,0
+56,M,47,Graduate,Unknown,43,41,0
+57,F,51,Graduate,Single,44,50,0
+58,M,69,Uneducated,Married,44,46,0
+59,F,27,Graduate,Married,46,51,0
+60,M,53,High School,Single,46,46,0
+61,M,70,Unknown,Married,46,56,0
+62,M,19,Graduate,Married,46,55,0
+63,F,67,High School,Divorced,47,52,0
+64,F,54,Post-Graduate,Single,47,59,0
+65,M,63,High School,Single,48,51,0
+66,M,18,Uneducated,Single,48,59,0
+67,F,43,College,Married,48,50,0
+68,F,68,Uneducated,Single,48,48,0
+69,M,19,Graduate,Married,48,59,0
+70,F,32,Doctorate,Married,48,47,0
+71,M,70,Graduate,Single,49,55,0
+72,F,47,Graduate,Married,49,42,0
+73,F,60,Graduate,Unknown,50,49,0
+74,F,60,Uneducated,Married,50,56,0
+75,M,59,College,Single,54,47,0
+76,M,26,Graduate,Single,54,54,0
+77,F,45,Graduate,Single,54,53,0
+78,M,40,Uneducated,Single,54,48,0
+79,F,23,Graduate,Divorced,54,52,0
+80,F,49,Graduate,Married,54,42,0
+81,M,57,Graduate,Married,54,51,0
+82,M,38,Unknown,Unknown,54,55,0
+83,M,67,Unknown,Married,54,41,0
+84,F,46,Graduate,Married,54,44,0
+85,F,21,Graduate,Divorced,54,57,0
+86,M,48,Graduate,Married,54,46,0
+87,F,55,High School,Single,57,58,0
+88,F,22,Uneducated,Single,57,55,0
+89,F,34,High School,Single,58,60,0
+90,F,50,Unknown,Married,58,46,0
+91,F,68,High School,Single,59,55,0
+92,M,18,High School,Single,59,41,0
+93,M,48,Graduate,Single,60,49,0
+94,F,40,Graduate,Single,60,40,0
+95,F,32,Unknown,Married,60,42,0
+96,M,24,Graduate,Married,60,52,0
+97,F,47,Graduate,Married,60,47,0
+98,F,27,Doctorate,Married,60,50,0
+99,M,48,College,Married,61,42,0
+100,M,20,Unknown,Married,61,49,0
+101,F,23,College,Single,62,41,0
+102,F,49,Unknown,Married,62,48,0
+103,M,67,Graduate,Married,62,59,0
+104,M,26,Graduate,Single,62,55,0
+105,M,49,High School,Unknown,62,56,0
+106,F,21,Post-Graduate,Married,62,42,0
+107,F,66,Post-Graduate,Single,63,50,0
+108,M,54,Uneducated,Married,63,46,0
+109,M,68,Unknown,Married,63,43,0
+110,M,66,Unknown,Divorced,63,48,0
+111,M,65,Graduate,Married,63,52,0
+112,F,19,Unknown,Married,63,54,0
+113,F,38,High School,Divorced,64,42,0
+114,M,19,Uneducated,Married,64,46,0
+115,F,18,Graduate,Single,65,48,0
+116,F,19,Graduate,Single,65,50,0
+117,F,63,High School,Unknown,65,43,0
+118,F,49,High School,Single,65,59,0
+119,F,51,Doctorate,Married,67,43,0
+120,F,50,High School,Married,67,57,0
+121,M,27,Graduate,Single,67,56,0
+122,F,38,Doctorate,Married,67,40,0
+123,F,40,High School,Married,69,58,0
+124,M,39,High School,Single,69,91,1
+125,F,23,College,Single,70,29,3
+126,F,31,Graduate,Single,70,77,1
+127,M,43,Graduate,Single,71,35,0
+128,M,40,Graduate,Married,71,95,1
+129,M,59,High School,Single,71,11,3
+130,M,38,Uneducated,Unknown,71,75,1
+131,M,47,Graduate,Married,71,9,3
+132,M,39,Unknown,Married,71,75,1
+133,F,25,Graduate,Married,72,34,0
+134,F,31,Graduate,Married,72,71,1
+135,M,20,Doctorate,Single,73,5,3
+136,F,29,Graduate,Single,73,88,1
+137,F,44,High School,Divorced,73,7,3
+138,M,32,College,Divorced,73,73,1
+139,M,19,College,Married,74,10,3
+140,F,35,Post-Graduate,Single,74,72,1
+141,F,57,High School,Married,75,5,3
+142,M,32,Unknown,Single,75,93,1
+143,F,28,Graduate,Married,76,40,0
+144,F,32,Graduate,Single,76,87,1
+145,M,25,College,Single,77,12,3
+146,M,28,Uneducated,Married,77,97,1
+147,M,48,Graduate,Single,77,36,3
+148,F,32,Graduate,Married,77,74,1
+149,F,34,Graduate,Married,78,22,3
+150,M,34,High School,Married,78,90,1
+151,M,43,High School,Single,78,17,3
+152,M,39,Graduate,Married,78,88,1
+153,F,44,Graduate,Single,78,20,3
+154,F,38,Uneducated,Single,78,76,1
+155,F,47,College,Married,78,16,3
+156,F,27,Unknown,Married,78,89,1
+157,M,37,High School,Single,78,1,3
+158,F,30,Doctorate,Married,78,78,1
+159,M,34,Uneducated,Married,78,1,3
+160,F,30,Graduate,Divorced,78,73,1
+161,F,56,High School,Married,79,35,3
+162,F,29,College,Single,79,83,1
+163,M,19,Uneducated,Married,81,5,3
+164,F,31,Unknown,Divorced,81,93,1
+165,M,50,Uneducated,Married,85,26,3
+166,F,36,Uneducated,Married,85,75,1
+167,M,42,Uneducated,Married,86,20,3
+168,F,33,Uneducated,Married,86,95,1
+169,F,36,Graduate,Single,87,27,3
+170,M,32,High School,Married,87,63,1
+171,M,40,Uneducated,Divorced,87,13,3
+172,M,28,High School,Married,87,75,1
+173,M,36,Unknown,Married,87,10,3
+174,M,36,High School,Married,87,92,1
+175,F,52,High School,Married,88,13,3
+176,F,30,Graduate,Divorced,88,86,1
+177,M,58,Uneducated,Married,88,15,3
+178,M,27,Graduate,Married,88,69,1
+179,M,59,Uneducated,Single,93,14,3
+180,M,35,Uneducated,Married,93,90,1
+181,F,37,Uneducated,Married,97,32,3
+182,F,32,Graduate,Married,97,86,1
+183,M,46,Uneducated,Married,98,15,3
+184,F,29,Graduate,Married,98,88,1
+185,F,41,Graduate,Married,99,39,3
+186,M,30,Uneducated,Single,99,97,1
+187,F,54,Post-Graduate,Single,101,24,3
+188,M,28,College,Single,101,68,1
+189,F,41,High School,Married,103,17,3
+190,F,36,Post-Graduate,Married,103,85,1
+191,F,34,Graduate,Married,103,23,3
+192,F,32,Graduate,Unknown,103,69,1
+193,M,33,Graduate,Married,113,8,3
+194,F,38,Doctorate,Married,113,91,1
+195,F,47,Post-Graduate,Married,120,16,3
+196,F,35,High School,Married,120,79,1
+197,F,45,High School,Unknown,126,28,3
+198,M,32,Uneducated,Married,126,74,1
+199,M,32,High School,Married,137,18,3
+200,M,30,College,Married,137,83,1
