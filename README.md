@@ -289,12 +289,8 @@ Through this project, the following Machine Learning concepts were practiced:
 
 AI / Machine Learning Enthusiast
 
-* GitHub: https://github.com/Alishba-Haroon
-* Portfolio: https://alishba-haroon.github.io/Portfolio/
-* LinkedIn: https://www.linkedin.com/in/alishba-haroon/
-
 ---
 
 ## 📄 License
 
-This project is created for **educational and portfolio purposes**.
+This project is created for **educational  purposes**.
